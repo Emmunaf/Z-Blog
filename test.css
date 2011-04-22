@@ -1,0 +1,219 @@
+
+/*body generale*/
+body
+{
+background-color:#E8E8E8;
+}
+/*#b0c4de*/
+#body
+{
+width: 100%;
+height: 100%;
+display: block;
+}
+/*fine body*/
+#main {
+
+    clear: both;
+    display: block;
+    margin: auto;
+    overflow: hidden;
+    width: 97%;
+    
+}
+#left_menu {
+	background-color: #b0c4de;
+    display: inline;
+    float: left;
+    font-size: 9pt;
+    height: 100%;
+    max-width: 26%;
+    overflow: auto;/*hidden per nascondere*/
+    vertical-align: top;
+    width: 200px;
+    -webkit-border-radius: 6px;    /* for Safari */
+    -moz-border-radius: 6px;       /* for Firefox */
+    
+}
+
+
+#left_menu ul{
+list-style-type: square;
+list-style-position: inside;
+border: 0;
+padding: 0;
+margin: 0;}
+#left_menu a:hover, #left_col a:visited, #left_col a:active, #left_col a:link{font-weight: lighter;color: #2370B6;}
+
+#center_blog{
+
+width: 71%;
+height: 100%;
+vertical-align: top;
+float:left;
+display: inline;
+margin: auto;
+margin-left: 5px;
+border-left: 1px dashed #808080;
+border-right: 1px dashed #808080;
+padding-left: 5px;
+padding-right: 5px;
+}
+
+
+h2.title { /*richiama con <h2 class="title"></h2>*/
+	text-transform: capitalize;
+	text-align: center;
+    /*border-bottom: 1px solid #FFFFFF;*//*se decommentato mostra riga bianca*/
+    font-size: 26px;
+    margin: 0;
+    padding: 2px 10px;
+    text-shadow: 1px 1px 3px #AAAAAA;
+ 
+}
+h2.separa {
+margin: 0;
+padding: 2px 10px;
+border-bottom: 1px solid #FFFFFF;
+}
+
+a.titoli:link    {
+text-transform: capitalize;
+text-decoration: none;
+color: #6699CC;
+}
+a.titoli:hover   {
+text-transform: capitalize;
+/*color: blu ;*/
+font-family: Comics Sans;
+ font-size: 22pt;
+ text-decoration: underline;
+ font-style: normal ;
+ }
+a.titoli:visited {
+text-transform: capitalize;
+text-decoration: none;
+color: #21759B;
+font-size: 20pt;
+ }
+ /*Link per sloggare*/
+a.logout:link    {
+padding-left:78%;
+text-decoration: none;
+color: #185D99;
+}
+a.logout:hover   {
+/*color: blu ;*/
+padding-left:78%;
+ font-size: 12pt;
+ text-decoration: underline;
+ font-style: italic;
+ }
+a.logout:visited {
+padding-left:78%;
+text-decoration: none;
+color: #185D99;
+ }
+ /*link per slogare END*/
+ 
+ /*Normali*/
+
+a:link    {
+text-decoration: none;
+color: #185D99;
+}
+a:hover   {
+/*color: blu ;*/
+ font-size: 13pt;
+ text-decoration: underline;
+ font-style: italic;
+
+ }
+a:visited {
+text-decoration: none;
+ color: green;
+  }
+  
+  div.p_author {
+  text-transform: capitalize;
+  font-size: 13px;
+  padding-left: 88%;
+  
+  
+  }
+  
+span.c_title {/*da usare con span o <p> per le classi*/
+text-transform: capitalize;
+padding-left:12%;
+
+}
+span.c_author {
+text-transform: capitalize;
+padding-left:15%;
+color:#777777;
+text-shadow: 1px 1px 3px #AAAAAA;
+}
+
+div.accapo {
+padding-left: 19%;
+width: 48%;
+height: 50%;
+}
+
+div.login {
+padding-left: 88%;
+
+}
+/*link per editare i commenti*/
+a.c_edit:link    {
+padding-left:63%;
+text-decoration: none;
+color: #185D99;
+font-size: 8pt;
+}
+a.c_edit:hover   {
+/*color: blu ;*/
+padding-left:55%;
+ font-size: 9pt;
+ text-decoration: underline;
+ font-style: italic;
+ }
+a.c_edit {
+padding-left:63%;
+font-size: 8pt;
+text-decoration: none;
+color: #185D99;
+ }
+ /*Fine link per modificare i commenti*/
+ a.mod:link {
+padding-left:73%;
+font-size: 7.5pt;
+text-decoration: none;
+color: #185D99;
+ }
+ 
+ a.linkz:visited {
+color: #185D99;
+ }
+ 
+div.rounded_STYLE
+{
+    background-color: #ffaa66;         
+    /*border: 1px solid #B0C4DE;  */
+    -webkit-border-radius: 8px;
+	-moz-border-radius: 8px;
+	border-radius: 8px;
+    }
+ /*End link normali*/
+
+/*
+ * 
+ -webkit-border-top-left-radius: 9px;
+-webkit-border-top-right-radius: 8px;
+-webkit-border-bottom-right-radius: 5px;
+-webkit-border-bottom-left-radius: 4px;
+border-top-left-radius: 9px;
+border-top-right-radius: 8px;
+border-bottom-right-radius: 5px;
+border-bottom-left-radius: 4px;
+ * */
